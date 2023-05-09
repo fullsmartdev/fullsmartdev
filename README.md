@@ -4,14 +4,6 @@
 ✅    RESTful API, GraphQL, gRPC/tRPC <br />
 ✅    MongoDB, MySQL, PostgreSQL, DynamoDB <br />
 ✅    AWS amplify, lambda, EC2, S3 <br />
-
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullsmartdev&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=fullsmartdev&show_icons=true&theme=gotham&count_private=true">
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
 </div>
