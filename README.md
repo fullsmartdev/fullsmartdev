@@ -5,16 +5,9 @@
 ✅    MongoDB, MySQL, PostgreSQL, DynamoDB <br />
 ✅    AWS amplify, lambda, EC2, S3 <br />
 
-### Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
-✅    Solidity/OpenZeppline, Hardhat, Truffle <br />
-✅    Web3.js, Ethers.js <br />
-✅    DeFi, Dex, Stacking, Yield Farming, Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon..) <br />
-✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
-✅    GameFi (PlayToEarn Games, PvP, PvE)
-
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mogw&show_icons=true&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullsmartdev&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=fullsmartdev&show_icons=true&theme=gotham&count_private=true">
 </div>
 
 <br />
@@ -65,16 +58,6 @@
 
 💗 **Tech Stacks:**
 
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Binance-informational?style=flat&logo=binance&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-polygon-informational?style=flat&logo=polygon&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-fantom-informational?style=flat&logo=fantom&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-avalanche-informational?style=flat&logo=avalanche&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
